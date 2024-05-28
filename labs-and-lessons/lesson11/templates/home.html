@@ -1,0 +1,45 @@
+<!-- templates/home.html -->
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Home page</h1>
+<!--<h3>Name: {{firstName}} {{lastName}}</h3>-->
+
+<!-- This form references the homePost route. -->
+<form action="{% url 'homePost' %}" method="post">
+    {% csrf_token %}
+
+    <h3>Years Work Experience</h3>
+
+    <!-- Show radio button list named 'choice' -->
+    {% for choice in mynumbers %}
+    <div class="form-check">
+        <input class="form-check-input" type="radio" name="choice" id="choice{{ forloop.counter }}"
+               value="{{ choice }}">
+        <label class="form-check-label" for="choice{{ forloop.counter }}">
+            {{ choice }}
+        </label>
+    </div>
+    {% endfor %}
+
+
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default">GMAT Score</span>
+        </div>
+        <input type="text" name="gmat" class="form-control" aria-label="Sizing example input"
+               aria-describedby="inputGroup-sizing-default">
+    </div>
+
+    <!—Submit button is also contained in the form -->
+    <div class="input-group mb-3">
+        <button type="submit" class="btn btn-dark form-control">POST YOUR CHOICE</button>
+    </div>
+
+</form>
+<!-- End of form. -->
+
+<!-- This error will notify the user if there are issues with the POST request -->
+{% if errorMessage %}<p><strong>{{errorMessage}}</strong></p>{% endif %}
+{% endblock content %}
+
