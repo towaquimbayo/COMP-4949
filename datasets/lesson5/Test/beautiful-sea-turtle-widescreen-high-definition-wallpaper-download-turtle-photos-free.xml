@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>beautiful-sea-turtle-widescreen-high-definition-wallpaper-download-turtle-photos-free.jpg</filename>
+	<path>/my-project-name/beautiful-sea-turtle-widescreen-high-definition-wallpaper-download-turtle-photos-free.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>501</ymin>
+			<xmax>665</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mouth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>563</ymin>
+			<xmax>728</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

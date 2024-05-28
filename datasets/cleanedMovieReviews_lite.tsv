@@ -1,0 +1,306 @@
+	PhraseId	SentenceId	Phrase	Sentiment
+0	1	1	"A series of escapades demonstrating the adage that what is good for the goose is also good for the gander, some of which occasionally amuses but none of which amounts to much of a story."	1
+1	2	64	"This quiet, introspective and entertaining independent is worth seeking."	4
+2	3	82	"Even fans of Ismail Merchant's work, I suspect, would have a hard time sitting through this one."	1
+3	4	117	"A positively thrilling combination of ethnography and all the intrigue, betrayal, deceit and murder of a Shakespearean tragedy or a juicy soap opera."	3
+4	5	157	Aggressive self-glorification and a manipulative whitewash.	1
+5	6	167	A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis.	4
+6	7	199	"Narratively, Trouble Every Day is a plodding mess."	1
+7	8	214	"The Importance of Being Earnest, so thick with wit it plays like a reading from Bartlett's Familiar Quotations"	3
+8	9	248	But it does n't leave you with much.	1
+9	10	260	You could hate it for the same reason.	1
+10	11	272	"There's little to recommend Snow Dogs, unless one considers cliched dialogue and perverse escapism a source of high hilarity."	1
+11	12	307	"Kung Pow is Oedekerk's realization of his childhood dream to be in a martial-arts flick, and proves that sometimes the dreams of youth should remain just that."	1
+12	13	353	The performances are an absolute joy.	4
+13	14	364	Fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense.	3
+14	15	408	"I still like Moonlight Mile, better judgment be damned."	3
+15	16	424	"A welcome relief from baseball movies that try too hard to be mythic, this one is a sweet and modest and ultimately winning story."	3
+16	17	459	"a bilingual charmer, just like the woman who inspired it"	3
+17	18	474	Like a less dizzily gorgeous companion to Mr. Wong's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting.	2
+18	19	517	As inept as big-screen remakes of The Avengers and The Wild Wild West.	1
+19	20	537	It's everything you'd expect -- but nothing more.	2
+20	21	552	"Best indie of the year, so far."	4
+21	22	564	"Hatfield and Hicks make the oddest of couples, and in this sense the movie becomes a study of the gambles of the publishing world, offering a case study that exists apart from all the movie's political ramifications."	3
+22	23	620	It's like going to a house party and watching the host defend himself against a frothing ex-girlfriend.	1
+23	24	648	That the Chuck Norris `` grenade gag'' occurs about 7 times during Windtalkers is a good indication of how serious-minded the film is.	2
+24	25	687	The plot is romantic comedy boilerplate from start to finish.	2
+25	26	703	"It arrives with an impeccable pedigree, mongrel pep, and almost indecipherable plot complications."	2
+26	27	726	A film that clearly means to preach exclusively to the converted.	2
+27	28	742	"While The Importance of Being Earnest offers opportunities for occasional smiles and chuckles, it does n't give us a reason to be in the theater beyond Wilde's wit and the actors' performances."	1
+28	29	787	The latest vapid actor's exercise to appropriate the structure of Arthur Schnitzler's Reigen.	1
+29	30	811	"More vaudeville show than well-constructed narrative, but on those terms it's inoffensive and actually rather sweet."	2
+30	31	840	Nothing more than a run-of-the-mill action flick.	2
+31	32	849	"Hampered -- no, paralyzed -- by a self-indulgent script... that aims for poetry and ends up sounding like satire."	0
+32	33	882	"Ice Age is the first computer-generated feature cartoon to feel like other movies, and that makes for some glacial pacing early on."	2
+33	34	917	"There's very little sense to what's going on here, but the makers serve up the cliches with considerable dash."	2
+34	35	945	"Cattaneo should have followed the runaway success of his first film, The Full Monty, with something different."	2
+35	36	971	"They're the unnamed, easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid."	1
+36	37	1003	It almost feels as if the movie is more interested in entertaining itself than in amusing us.	1
+37	38	1024	The movie's progression into rambling incoherence gives new meaning to the phrase ` fatal script error.'	0
+38	39	1051	"Do n't judge this one too soon - it's a dark, gritty story but it takes off in totally unexpected directions and keeps on going."	3
+39	40	1088	So could young romantics out on a date.	3
+40	41	1100	"Tartakovsky's team has some freakish powers of visual charm, but the five writers slip into the modern rut of narrative banality."	0
+41	42	1135	Vincent Gallo is right at home in this French shocker playing his usual bad boy weirdo role.	3
+42	43	1165	"If a horror movie's primary goal is to frighten and disturb, then They works spectacularly well... A shiver-inducing, nerve-rattling ride."	4
+43	44	1199	This 100-minute movie only has about 25 minutes of decent material.	1
+44	45	1216	"Fortunately, you still have that option."	2
+45	46	1225	Less the sensational true-crime hell-jaunt purists might like and more experimental in its storytelling -LRB- though no less horrifying for it -RRB-.	3
+46	47	1258	As tricky and satisfying as any of David Mamet's airless cinematic shell games.	3
+47	48	1281	"I'm sure the filmmaker would disagree, but, honestly, I do n't see the point."	1
+48	49	1305	Jones has tackled a meaty subject and drawn engaging characters while peppering the pages with memorable zingers.	4
+49	50	1333	"Bloody Sunday has the grace to call for prevention rather than to place blame, making it one of the best war movies ever made."	4
+50	51	1369	"Takes a clunky TV-movie approach to detailing a chapter in the life of the celebrated Irish playwright, poet and drinker."	1
+51	52	1401	"Finally coming down off of Miramax's deep shelves after a couple of aborted attempts, Waking Up in Reno makes a strong case for letting sleeping dogs lie."	2
+52	53	1446	"Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film."	0
+53	54	1480	"Comes across as a relic from a bygone era, and its convolutions... feel silly rather than plausible."	0
+54	55	1506	"Perhaps it's cliche to call the film ` refreshing,' but it is."	4
+55	56	1523	Both lead performances are Oscar-size.	4
+56	57	1531	Run for your lives !	0
+57	58	1539	Mark Pellington's latest pop thriller is as kooky and overeager as it is spooky and subtly in love with myth.	3
+58	59	1569	"Claude Chabrol's camera has a way of gently swaying back and forth as it cradles its characters, veiling tension beneath otherwise tender movements."	3
+59	60	1609	Transforms one of -LRB- Shakespeare's -RRB- deepest tragedies into a smart new comedy.	3
+60	61	1628	"The screenplay by James Eric, James Horton and director Peter O'Fallon... is so pat it makes your teeth hurt."	1
+61	62	1659	"But arriving at a particularly dark moment in history, it offers flickering reminders of the ties that bind us."	3
+62	63	1687	Its generic villains lack any intrigue -LRB- other than their funny accents -RRB- and the action scenes are poorly delivered.	1
+63	64	1716	The characters are more deeply thought through than in most ` right-thinking' films.	3
+64	65	1735	"The film, despite the gratuitous cinematic distractions impressed upon it, is still good fun."	3
+65	66	1755	Downright transparent is the script's endless assault of embarrassingly ham-fisted sex jokes that reek of a script rewrite designed to garner the film a `` cooler'' PG-13 rating.	0
+66	67	1799	"A smart, provocative drama that does the nearly impossible : It gets under the skin of a man we only know as an evil, monstrous lunatic."	4
+67	68	1840	It's like a drive-by.	1
+68	69	1846	"is many things -- stoner midnight flick, sci-fi deconstruction, gay fantasia -- but above all it's a love story as sanguine as its title."	3
+69	70	1883	A very funny romantic comedy about two skittish New York middle-agers who stumble into a relationship and then struggle furiously with their fears and foibles.	3
+70	71	1918	"But it has an ambition to say something about its subjects, but not a willingness."	1
+71	72	1938	-LRB- Scherfig -RRB- has made a movie that will leave you wondering about the characters' lives after the clever credits roll.	3
+72	73	1966	#NAME?	3
+73	74	1973	Reeks of rot and hack work from start to finish.	2
+74	75	1984	Plays like a series of vignettes -- clips of a film that are still looking for a common through-line.	1
+75	76	2006	 	1
+76	77	2013	The major problem with Windtalkers is that the bulk of the movie centers on the wrong character.	1
+77	78	2034	"Swimfan, like Fatal Attraction, eventually goes overboard with a loony melodramatic denouement in which a high school swimming pool substitutes for a bathtub."	2
+78	79	2071	This is a heartfelt story... it just is n't a very involving one.	1
+79	80	2087	"An unsettling, memorable cinematic experience that does its predecessors proud."	4
+80	81	2102	"All in all, it's a pretty good execution of a story that's a lot richer than the ones Hollywood action screenwriters usually come up with on their own."	3
+81	82	2142	"Phillip Noyce and all of his actors -- as well as his cinematographer, Christopher Doyle -- understand the delicate forcefulness of Greene's prose, and it's there on the screen in their version of The Quiet American."	3
+82	83	2195	The Pianist lacks the quick emotional connections of Steven Spielberg's Schindler's List.	2
+83	84	2218	"Inventive, fun, intoxicatingly sexy, violent, self-indulgent and maddening."	3
+84	85	2235	"Tells a fascinating, compelling story."	4
+85	86	2244	"Written, flatly, by David Kendall and directed, barely, by There's Something About Mary co-writer Ed Decter."	1
+86	87	2274	"Highly recommended viewing for its courage, ideas, technical proficiency and great acting."	4
+87	88	2297	"In IMAX in short, it's just as wonderful on the big screen."	4
+88	89	2315	It shows us a slice of life that's very different from our own and yet instantly recognizable.	3
+89	90	2338	"Amid the shock and curiosity factors, the film is just a corny examination of a young actress trying to find her way."	1
+90	91	2369	It's lazy for a movie to avoid solving one problem by trying to distract us with the solution to another.	2
+91	92	2394	"... it's as comprehensible as any Dummies guide, something even non-techies can enjoy."	3
+92	93	2414	"Entertains not so much because of its music or comic antics, but through the perverse pleasure of watching Disney scrape the bottom of its own cracker barrel."	1
+93	94	2453	"Writer\/director Burr Steers emphasizes the Q in Quirky, with mixed results."	3
+94	95	2473	Scarcely worth a mention apart from reporting on the number of tumbleweeds blowing through the empty theatres graced with its company.	0
+95	96	2504	"Invigorating, surreal, and resonant with a rainbow of emotion."	4
+96	97	2520	"`` Analyze That'' is one of those crass, contrived sequels that not only fails on its own, but makes you second-guess your affection for the original."	0
+97	98	2556	Report card : Does n't live up to the exalted tagline - there's definite room for improvement.	1
+98	99	2581	"It's not a particularly good film, but neither is it a monsterous one."	2
+99	100	2598	Tsai may be ploughing the same furrow once too often.	2
+100	101	2614	"-LRB- Green is -RRB- the comedy equivalent of Saddam Hussein, and I'm just about ready to go to the U.N. and ask permission for a preemptive strike."	1
+101	102	2654	A surprisingly ` solid' achievement by director Malcolm D. Lee and writer John Ridley.	3
+102	103	2678	"Massoud's story is an epic, but also a tragedy, the record of a tenacious, humane fighter who was also the prisoner -LRB- and ultimately the victim -RRB- of history."	2
+103	104	2719	Changing Lanes tries for more.	3
+104	105	2727	Shyamalan should stop trying to please his mom.	1
+105	106	2739	A macabre and very stylized Swedish fillm about a modern city where all the religious and civic virtues that hold society in place are in tatters.	3
+106	107	2777	"One of recent memory's most thoughtful films about art, ethics, and the cost of moral compromise."	4
+107	108	2804	The narrative is so consistently unimaginative that probably the only way to have saved the film is with the aid of those wisecracking Mystery Science Theater 3000 guys.	2
+108	109	2841	Filmmaker Tian Zhuangzhuang triumphantly returns to narrative filmmaking with a visually masterful work of quiet power.	4
+109	110	2865	A mawkish self-parody that plays like some weird Masterpiece Theater sketch with neither a point of view nor a compelling reason for being.	1
+110	111	2895	"Takes one character we do n't like and another we do n't believe, and puts them into a battle of wills that is impossible to care about and is n't very funny."	2
+111	112	2930	"And if you appreciate the one-sided theme to Lawrence's over-indulgent tirade, then knock yourself out and enjoy the big screen postcard that is a self-glorified Martin Lawrence lovefest."	1
+112	113	2972	The whole film has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as Very Important simply because the movie is ugly to look at and not a Hollywood product.	0
+113	114	3022	"Whenever it threatens to get bogged down in earnest dramaturgy, a stirring visual sequence like a surge through swirling rapids or a leap from pinnacle to pinnacle rouses us."	3
+114	115	3065	"Swinging, the film makes it seem, is not a hobby that attracts the young and fit."	1
+115	116	3087	"But when it does, you're entirely unprepared."	2
+116	117	3099	Devos delivers a perfect performance that captures the innocence and budding demons within a wallflower.	3
+117	118	3123	"300 years of Russian history and culture compressed into an evanescent, seamless and sumptuous stream of consciousness."	4
+118	119	3151	"The filmmakers want nothing else than to show us a good time, and in their cheap, B movie way, they succeed."	3
+119	120	3181	"Mr. Polanski is in his element here : alone, abandoned, but still consoled by his art, which is more than he has ever revealed before about the source of his spiritual survival."	3
+120	121	3226	"`` Spider-man is better than any summer blockbuster we had to endure last summer, and hopefully, sets the tone for a summer of good stuff."	4
+121	122	3263	Absorbing character	2
+122	123	3265	"Violent, vulgar and forgettably entertaining."	1
+123	124	3273	It's the unsettling images of a war-ravaged land that prove more potent and riveting than the unlikely story of Sarah and Harrison.	2
+124	125	3305	"Winds up being both revelatory and narcissistic, achieving some honest insight into relationships that most high-concept films candy-coat with pat storylines, precious circumstances and beautiful stars."	3
+125	126	3347	"If Mostly Martha is mostly unsurprising, it's still a sweet, even delectable diversion."	3
+126	127	3368	"A thoughtful and surprisingly affecting portrait of a screwed-up man who dared to mess with some powerful people, seen through the eyes of the idealistic kid who chooses to champion his ultimately losing cause."	4
+127	128	3417	"Keenly observed and refreshingly natural, Swimming gets the details right, from its promenade of barely clad bodies in Myrtle Beach, S.C., to the adrenaline jolt of a sudden lunch rush at the diner."	3
+128	129	3471	A brilliant gag at the expense of those who paid for it and those who pay to see it.	2
+129	130	3493	"A triumph, a film that hews out a world and carries us effortlessly from darkness to light."	4
+130	131	3516	Just about everyone involved here seems to be coasting.	1
+131	132	3529	"A fascinating, dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction."	3
+132	133	3551	I suspect this is the kind of production that would have been funnier if the director had released the outtakes theatrically and used the film as a bonus feature on the DVD.	1
+133	134	3591	"It's hard to say who might enjoy this, are there Tolstoy groupies out there ?"	1
+134	135	3610	Daughter From Danang reveals that efforts toward closure only open new wounds.	1
+135	136	3630	One of the year's most weirdly engaging and unpredictable character pieces.	4
+136	137	3643	Intriguing and downright intoxicating.	4
+137	138	3649	"Although fairly involving as far as it goes, the film does n't end up having much that is fresh to say about growing up Catholic or, really, anything."	1
+138	139	3687	"The movie is silly beyond comprehension, and even if it were n't silly, it would still be beyond comprehension."	0
+139	140	3708	Sleek and arty.	3
+140	141	3713	"Poor editing, bad bluescreen, and ultra-cheesy dialogue highlight the radical action."	0
+141	142	3732	"-LRB- Cho's face is -RRB- an amazing slapstick instrument, creating a scrapbook of living mug shots."	3
+142	143	3760	It gets the details of its time frame right but it completely misses its emotions.	1
+143	144	3778	Initial strangeness inexorably gives way to rote sentimentality and mystical tenderness becomes narrative expedience.	2
+144	145	3800	"It lets you brush up against the humanity of a psycho, without making him any less psycho."	3
+145	146	3824	"Like the world of his film, Hartley created a monster but did n't know how to handle it."	1
+146	147	3848	"When cowering and begging at the feet a scruffy Giannini, Madonna gives her best performance since Abel Ferrara had her beaten to a pulp in his Dangerous Game."	4
+147	148	3890	Too clumsy in key moments... to make a big splash.	1
+148	149	3905	"Because Eight Legged Freaks is partly an homage to Them, Tarantula and other low - budget B-movie thrillers of the 1950s and'60s, the movie is a silly -LRB- but not sophomoric -RRB- romp through horror and hellish conditions."	2
+149	150	3961	"It feels like very light Errol Morris, focusing on eccentricity but failing, ultimately, to make something bigger out of its scrapbook of oddballs."	1
+150	151	3994	Spielberg's realization of a near-future America is masterful.	4
+151	152	4004	"There's a scientific law to be discerned here that producers would be well to heed : Mediocre movies start to drag as soon as the action speeds up ; when the explosions start, they fall to pieces."	0
+152	153	4054	He's one of the few ` cool' actors who never seems aware of his own coolness.	3
+153	154	4077	"Feels like the work of an artist who is simply tired -- of fighting the same fights, of putting the weight of the world on his shoulders, of playing with narrative form."	1
+154	155	4118	... stale and uninspired.	1
+155	156	4124	"In the director's cut, the film is not only a love song to the movies but it also is more fully an example of the kind of lush, all-enveloping movie experience it rhapsodizes."	3
+156	157	4164	Has the rare capability to soothe and break your heart with a single stroke.	3
+157	158	4185	Eerily accurate depiction of depression.	1
+158	159	4194	"As a feature-length film, it wears out its welcome as tryingly as the title character."	1
+159	160	4213	"An uncluttered, resonant gem that relays its universal points without lectures or confrontations.'"	3
+160	161	4235	The story alone could force you to scratch a hole in your head.	1
+161	162	4252	It's the filmmakers' post-camp comprehension of what made old-time B movies good-bad that makes Eight Legged Freaks a perfectly entertaining summer diversion.	3
+162	163	4278	"As any creature-feature fan knows, when you cross toxic chemicals with a bunch of exotic creatures, you get a lot of running around, screaming and death."	2
+163	164	4319	You bet there is and it's what makes this rather convoluted journey worth taking.	2
+164	165	4337	"Before it takes a sudden turn and devolves into a bizarre sort of romantic comedy, Steven Shainberg's adaptation of Mary Gaitskill's harrowing short story... is a brilliantly played, deeply unsettling experience."	3
+165	166	4382	Kim Ki-Deok seems to have in mind an -LRB- emotionally at least -RRB- adolescent audience demanding regular shocks and bouts of barely defensible sexual violence to keep it interested.	1
+166	167	4426	"Has no reason to exist, other than to employ Hollywood kids and people who owe favors to their famous parents."	0
+167	168	4454	A well-made but emotionally scattered film whose hero gives his heart only to the dog.	2
+168	169	4474	"Those who love Cinema Paradiso will find the new scenes interesting, but few will find the movie improved."	2
+169	170	4495	Campanella gets the tone just right -- funny in the middle of sad in the middle of hopeful.	3
+170	171	4515	Nothing more than an amiable but unfocused bagatelle that plays like a loosely-connected string of acting-workshop exercises.	0
+171	172	4539	It's a sharp movie about otherwise dull subjects.	3
+172	173	4550	"Wallace gets a bit heavy handed with his message at times, and has a visual flair that waxes poetic far too much for our taste."	2
+173	174	4585	Charming and funny -LRB- but ultimately silly -RRB- movie.	2
+174	175	4595	"... the one thing this Wild film has that other Imax films do n't : chimps, lots of chimps, all blown up to the size of a house."	2
+175	176	4628	"Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion."	0
+176	177	4654	This is a children's film in the truest sense.	3
+177	178	4666	Horrendously amateurish filmmaking that is plainly dull and visually ugly when it is n't incomprehensible.	0
+178	179	4684	"Beautifully crafted, engaging filmmaking that should attract upscale audiences hungry for quality and a nostalgic, twisty yarn that will keep them guessing."	4
+179	180	4719	An awkwardly contrived exercise in magic realism.	1
+180	181	4729	"The punch lines that miss, unfortunately, outnumber the hits by three-to-one."	1
+181	182	4749	"Like Smoke Signals, the film is also imbued with strong themes of familial ties and spirituality that are powerful and moving without stooping to base melodrama"	3
+182	183	4783	Evokes the style and flash of the double-cross that made Mamet's `` House of Games'' and last fall's `` Heist'' so much fun.	3
+183	184	4813	"The film aims to be funny, uplifting and moving, sometimes all at once."	3
+184	185	4828	"At a brief 42 minutes, we need more X and less blab."	2
+185	186	4846	The Spalding Gray equivalent of a teen gross-out comedy.	2
+186	187	4859	There's a great deal of corny dialogue and preposterous moments.	1
+187	188	4872	Uneven but a lot of fun.	3
+188	189	4878	The result might look like Vulgar.	2
+189	190	4885	The film rehashes several old themes and is capped with pointless extremes -- it's insanely violent and very graphic.	0
+190	191	4912	The dragons are the real stars of Reign of Fire and you wo n't be disappointed.	3
+191	192	4934	It never plays as dramatic even when dramatic things happen to people.	1
+192	193	4948	Manages to please its intended audience -- children -- without placing their parents in a coma-like state.	3
+193	194	4970	The movie generates plot points with a degree of randomness usually achieved only by lottery drawing.	1
+194	195	4991	"Though the film never veers from its comic course, its unintentional parallels might inadvertently evoke memories and emotions which are anything but humorous."	2
+195	196	5022	The film can depress you about life itself.	1
+196	197	5030	"If you saw it on TV, you'd probably turn it off, convinced that you had already seen that movie."	1
+197	198	5056	You get the impression that writer and director Burr Steers knows the territory... but his sense of humor has yet to lose the smug self-satisfaction usually associated with the better private schools.	1
+198	199	5097	This is a superior horror flick.	4
+199	200	5104	The movie's heavy-handed screenplay navigates a fast fade into pomposity and pretentiousness.	2
+200	201	5121	A little weak -- and it is n't that funny.	1
+201	202	5131	But they do n't fit well together and neither is well told.	1
+202	203	5144	Being latently gay and liking to read are hardly enough.	2
+203	204	5159	More sophisticated and literate than such pictures usually are... an amusing little catch.	3
+204	205	5178	Storytelling feels slight.	1
+205	206	5182	Monte Cristo smartly emphasizes the well-wrought story and omits needless chase scenes and swordfights as the revenge unfolds.	4
+206	207	5210	It's a fairy tale that comes from a renowned Indian film culture that allows Americans to finally revel in its splendor.	4
+207	208	5240	Well-done supernatural thriller with keen insights into parapsychological phenomena and the soulful nuances of the grieving process.	3
+208	209	5267	"... only Bond can save us from the latest eccentric, super-wealthy megalomaniac bent on world domination and destruction."	2
+209	210	5294	"It is depressing, ruthlessly pained and depraved, the movie equivalent of staring into an open wound."	0
+210	211	5318	Damon brings the proper conviction to his role as -LRB- Jason Bourne -RRB-.	3
+211	212	5337	Parents beware ; this is downright movie penance.	1
+212	213	5347	"When it's this rich and luscious, who cares ?"	3
+213	214	5360	A singularly off-putting romantic comedy.	1
+214	215	5367	Director Boris von Sychowski instead opts for a routine slasher film that was probably more fun to make than it is to sit through.	2
+215	216	5399	"Would've been nice if the screenwriters had trusted audiences to understand a complex story, and left off the film's predictable denouement."	0
+216	217	5429	"A superfluous sequel... plagued by that old familiar feeling of ` let's get this thing over with' : Everyone has shown up at the appointed time and place, but visible enthusiasm is mighty hard to find."	1
+217	218	5480	"An earnest, roughshod document, it serves as a workable primer for the region's recent history, and would make a terrific 10th-grade learning tool."	3
+218	219	5517	Cloaks a familiar anti-feminist equation -LRB- career - kids = misery -RRB- in tiresome romantic-comedy duds.	1
+219	220	5542	A film that plays things so nice'n safe as to often play like a milquetoast movie of the week blown up for the big screen.	1
+220	221	5569	His work transcends the boy-meets-girl posturing of typical love stories.	3
+221	222	5584	"An even more predictable, cliche-ridden endeavor than its predecessor."	1
+222	223	5597	Plays like a bad blend of an overripe episode of TV's Dawson's Creek and a recycled and dumbed-down version of Love Story.	0
+223	224	5627	"The script covers huge, heavy topics in a bland, surfacey way that does n't offer any insight into why, for instance, good things happen to bad people."	1
+224	225	5665	The film is so bad it does n't improve upon the experience of staring at a blank screen.	0
+225	226	5683	They threw loads of money at an idea that should've been so much more even if it was only made for teenage boys and wrestling fans.	1
+226	227	5717	"It's difficult to imagine that a more confused, less interesting and more sloppily made film could possibly come down the road in 2002."	0
+227	228	5749	"Though the film is well-intentioned, one could rent the original and get the same love story and parable."	3
+228	229	5768	"Jolting into Charleston rhythms, the story has the sizzle of old news that has finally found the right vent -LRB- accurate ?"	2
+229	230	5796	Or both.	2
+230	231	5798	"Williams plays Sy, another of his open-faced, smiling madmen, like the killer in Insomnia."	2
+231	232	5821	Phoned-in business as usual.	1
+232	233	5827	"With its lackadaisical plotting and mindless action, All About the Benjamins evokes the bottom tier of blaxploitation flicks from the 1970s."	1
+233	234	5857	"Ah, yes, that would be me : fighting off the urge to doze."	0
+234	235	5877	"Thoughtless, random, superficial humour and a lot of very bad Scouse accents"	0
+235	236	5894	"In an era where big stars and high production values are standard procedure, Narc strikes a defiantly retro chord, and outpaces its contemporaries with daring and verve."	3
+236	237	5935	A rip-roaring comedy action fest that'll put hairs on your chest.	3
+237	238	5953	... a thoughtful what-if for the heart as well as the mind.	4
+238	239	5964	Miyazaki is one of world cinema's most wondrously gifted artists and storytellers.	4
+239	240	5982	"A chronicle not only of one man's quest to be president, but of how that man single-handedly turned a plane full of hard-bitten, cynical journalists into what was essentially, by campaign's end, an extended publicity department."	3
+240	241	6037	"Provides the kind of ` laugh therapy' I need from movie comedies -- offbeat humor, amusing characters, and a happy ending."	4
+241	242	6067	Feels strangely hollow at its emotional core.	0
+242	243	6077	"At a time when commercialism has squeezed the life out of whatever idealism American moviemaking ever had, Godfrey Reggio's career shines like a lonely beacon."	3
+243	244	6112	Director Roger Michell does so many of the little things right that it's difficult not to cuss him out severely for bungling the big stuff.	2
+244	245	6143	Robert Harmon's less-is-more approach delivers real bump-in - the-night chills -- his greatest triumph is keeping the creepy crawlies hidden in the film's thick shadows.	3
+245	246	6180	"This movie may not have the highest production values you've ever seen, but it's the work of an artist, one whose view of America, history and the awkwardness of human life is generous and deep."	4
+246	247	6221	Feral and uncomfortable.	1
+247	248	6226	"Sillier, cuter, and shorter than the first -LRB- as best I remember -RRB-, but still a very good time at the cinema."	4
+248	249	6254	"It's more enjoyable than I expected, though, and that's because the laughs come from fairly basic comedic constructs."	3
+249	250	6282	Black-and-white and unrealistic.	0
+250	251	6287	The film is predictable in the reassuring manner of a beautifully sung holiday carol.	3
+251	252	6305	"The only camouflage Carvey should now be considering is a paper bag to wear over his head when he goes out into public, to avoid being recognized as the man who bilked unsuspecting moviegoers."	0
+252	253	6352	"Not about scares but a mood in which an ominous, pervasive, and unknown threat lurks just below the proceedings and adds an almost constant mindset of suspense."	3
+253	254	6391	"Some of the computer animation is handsome, and various amusing sidekicks add much-needed levity to the otherwise bleak tale, but overall the film never rises above mediocrity."	1
+254	255	6431	Offers the flash of rock videos fused with solid performances and eerie atmosphere.	4
+255	256	6449	"A breezy blend of art, history, esoteric musings and philosophy."	3
+256	257	6465	"Now as a former Gong Show addict, I'll admit it, my only complaint is that we did n't get more re-creations of all those famous moments from the show."	3
+257	258	6503	Genuinely unnerving.	3
+258	259	6507	"The increasingly diverse French director has created a film that one can honestly describe as looking, sounding and simply feeling like no other film in recent history."	4
+259	260	6536	One of those joyous films that leaps over national boundaries and celebrates universal human nature.	3
+260	261	6557	A difficult but worthy film that bites off more than it can chew by linking the massacre of Armenians in 1915 with some difficult relationships in the present.	2
+261	262	6593	"Halfway through the movie, the humor dwindles."	1
+262	263	6602	"Witty and often surprising, a dark little morality tale disguised as a romantic comedy."	4
+263	264	6620	"One senses in World Traveler and in his earlier film that Freundlich bears a grievous but obscure complaint against fathers, and circles it obsessively, without making contact."	1
+264	265	6660	"In fact, even better."	3
+265	266	6666	... a preachy parable stylized with a touch of John Woo bullet ballet.	2
+266	267	6684	Proves that some movie formulas do n't need messing with -- like the big-bug movie.	2
+267	268	6701	"An uplifting, largely bogus story."	2
+268	269	6708	"Thanks to confident filmmaking and a pair of fascinating performances, the way to that destination is a really special walk in the woods."	4
+269	270	6738	Superbly photographed and staged by Mendes with a series of riveting set pieces the likes of which mainstream audiences have rarely seen.	4
+270	271	6766	A mesmerizing cinematic poem from the first frame to the last.	4
+271	272	6779	"After the first 10 minutes, which is worth seeing"	3
+272	273	6795	It has become apparent that the franchise's best years are long past.	1
+273	274	6813	"Screenwriter Chris ver Weil's directing debut is good-natured and never dull, but its virtues are small and easily overshadowed by its predictability."	2
+274	275	6847	"Too much of Storytelling moves away from Solondz's social critique, casting its audience as that of intellectual lector in contemplation of the auteur's professional injuries."	1
+275	276	6886	"Ultimately, Sarah's dedication to finding her husband seems more psychotic than romantic, and nothing in the movie makes a convincing case that one woman's broken heart outweighs all the loss we witness."	1
+276	277	6930	"The jokes are flat, and the action looks fake."	0
+277	278	6942	A mildly enjoyable if toothless adaptation of a much better book.	2
+278	279	6956	Festers in just such a dungpile that you'd swear you were watching monkeys flinging their feces at you.	0
+279	280	6981	"In addition to the overcooked, ham-fisted direction, which has all the actors reaching for the back row, the dialogue sounds like horrible poetry."	0
+280	281	7014	"A vile, incoherent mess... a scummy ripoff of David Cronenberg's brilliant ` Videodrome.'"	0
+281	282	7037	"First, for a movie that tries to be smart, it's kinda dumb."	1
+282	283	7053	I was sent a copyof this film to review on DVD.	2
+283	284	7067	... silly humbuggery...	1
+284	285	7071	"Is n't as sharp as the original... Despite some visual virtues, ` Blade II' just does n't cut it."	1
+285	286	7092	"A smart, arch and rather cold-blooded comedy."	3
+286	287	7102	#NAME?	0
+287	288	7109	"Its flame-like, roiling black-and-white inspires trembling and gratitude."	3
+288	289	7123	Robinson's web of suspense matches the page-turning frenzy that Clancy creates.	4
+289	290	7141	A slight but sweet film.	3
+290	291	7146	Got a David Lynch jones ?	2
+291	292	7153	Earnest and tentative even when it aims to shock.	2
+292	293	7163	Time of Favor could have given audiences the time of day by concentrating on the elements of a revealing alienation among a culture of people who sadly are at hostile odds with one another through recklessness and retaliation.	1
+293	294	7213	`` Austin Powers in Goldmember'' has the right stuff for silly summer entertainment and has enough laughs to sustain interest to the end.	4
+294	295	7242	What puzzles me is the lack of emphasis on music in Britney Spears' first movie.	2
+295	296	7262	The filmmakers might want to look it up.	2
+296	297	7269	"While maintaining the appearance of clinical objectivity, this sad, occasionally horrifying but often inspiring film is among Wiseman's warmest."	4
+297	298	7298	There is simply no doubt that this film asks the right questions at the right time in the history of our country.	4
+298	299	7323	A dreary movie.	0
+299	300	7327	"Sadly, though many of the actors throw off a spark or two when they first appear, they ca n't generate enough heat in this cold vacuum of a comedy to start a reaction."	1
+300	301	7369	"To the filmmakers, Ivan is a prince of a fellow, but he comes across as shallow and glib though not mean-spirited, and there's no indication that he's been responsible for putting together any movies of particular value or merit."	1
+301	302	7422	"Using a stock plot, About a Boy injects just enough freshness into the proceedings to provide an enjoyable 100 minutes in a movie theater."	3
+302	303	7452	"Beating the Austin Powers films at their own game, this blaxploitation spoof downplays the raunch in favor of gags that rely on the strength of their own cleverness as opposed to the extent of their outrageousness."	3
+303	304	7500	What begins as a conventional thriller evolves into a gorgeously atmospheric meditation on life-changing chance encounters.	3
+304	305	7524	Buy popcorn.	2

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>painted-turtle-on-a-log_Jonathan-Novack-Shutterstock.jpg</filename>
+	<path>/my-project-name/painted-turtle-on-a-log_Jonathan-Novack-Shutterstock.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>117</ymin>
+			<xmax>559</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mouth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>120</ymin>
+			<xmax>565</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
