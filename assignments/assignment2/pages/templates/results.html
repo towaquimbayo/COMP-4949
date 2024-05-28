@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<a href="{% url 'home' %}">Back to Home</a>
+<h1 style="margin-top: 1rem;">Promotion Prediction Results</h1>
+<p>You entered the following information:</p>
+<ul>
+    <li>Department: <strong>{{ department }}</strong></li>
+    <li>Previous Year Rating: <strong>{{ previous_year_rating }}</strong></li>
+    <li>Awards Won: <strong>{{ awards_won }}</strong></li>
+    <li>Average Training Score: <strong>{{ avg_training_score }}</strong></li>
+</ul>
+<p>Based on this information, your likelihood of getting promoted is:</p>
+{% if is_promoted == 1 %}
+<h1 style="color: green;">Promoted! 🫡</h1>
+{% else %}
+<h1 style="color: red;">Not Promoted 🥲</h1>
+{% endif %}
+{% endblock %}

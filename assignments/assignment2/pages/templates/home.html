@@ -1,0 +1,79 @@
+{%extends "base.html"%}
+{%block content%}
+<h1>Employee Promotion Questionnaire</h1>
+<span>Answer the following questions to determine if an employee is eligible for promotion.</span>
+<form action="{% url 'homePost' %}" method="post" class="form-group">
+    {%csrf_token%}
+
+    <h2>Department</h2>
+    <p>Your designated department.</p>
+    <div class="input-group">
+        <select name="department" id="department" class="form-control">
+            {% for department_choice in department %}
+            <option value="{{ department_choice }}">{{ department_choice }}</option>
+            {% endfor %}
+        </select>
+        <!--        <input-->
+        <!--                type="range"-->
+        <!--                id="department"-->
+        <!--                name="department"-->
+        <!--                min="0"-->
+        <!--                max="8"-->
+        <!--                value="0"-->
+        <!--                class="form-control-range"-->
+        <!--        >-->
+        <!--        <label for="department" id="departmentValue">0</label>-->
+    </div>
+
+    <h2>Previous Year Rating</h2>
+    <p>Your rating from the previous year. 0 if you have been with the company
+        for less than a year.</p>
+    <div class="input-group">
+        <input
+                type="range"
+                id="previous_year_rating"
+                name="previous_year_rating"
+                min="0"
+                max="5"
+                value="0"
+                class="form-control-range"
+        >
+        <label for="previous_year_rating" id="previous_year_ratingValue">0</label>
+    </div>
+
+    <h2>Awards Won</h2>
+    <p>Have you won any awards in the past year?</p>
+    <div class="input-group">
+        {% for awards_won_choice in awards_won %}
+        <input
+                type="radio"
+                name="awards_won"
+                id="awards_won_choice{{ forloop.counter }}"
+                value="{{ awards_won_choice }}"
+        >
+        <label for="awards_won_choice{{ forloop.counter }}">
+            {% if awards_won_choice == 1 %}
+            Yes
+            {% else %}
+            No
+            {% endif %}
+        </label><br>
+        {% endfor %}
+    </div>
+
+    <h2>Average Training Score</h2>
+    <p>Your average training score in current training evaluations.</p>
+    <input type="number" id="avg_training_score" name="avg_training_score"><br><br>
+
+    <input type="submit" value="Predict Promotion" class="btn btn-primary">
+</form>
+{% if errorMessage %}<p class="error-message">{{errorMessage}}</p>{% endif %}
+
+<script>
+    const previous_year_rating = document.getElementById('previous_year_rating');
+    const previous_year_ratingValue = document.getElementById('previous_year_ratingValue');
+    previous_year_rating.addEventListener('input', () => {
+        previous_year_ratingValue.textContent = previous_year_rating.value;
+    });
+</script>
+{%endblock%}
